@@ -1,5 +1,5 @@
-print("Is Mr. X alive?") #Asking the user for input
-x=input()
+
+x=input("Is Mr. X alive?") #Asking the user for input
 if x == "No":
   print("Om shanti!")
 elif x == "Yes":
