@@ -5,3 +5,6 @@ Python has various uses in data-science, web and game development, software deve
 If you wish to learn python by looking at my GitHub repositories, then you are most welcome!
 The single most important rule of learning anything new is to get ready in getting your hands muddy.
 Just looking at my code won't help much. You would have to experiment with my code or write a new program yourself from scratch! and discover new possibilities every now and then.
+
+# Projects
+Is Mr. X alive
