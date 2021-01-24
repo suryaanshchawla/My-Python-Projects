@@ -10,8 +10,12 @@ Just looking at my code won't help much. You would have to experiment with my co
 I am a big follower of the feynman technique, in which when we are learning something new, we teach others about it. So this repo is one of those.
 
 # Projects
-This section will cover the description of the projects in this repository. Each heading will be linked to the python file of that project. Insided the python file, there will be comments (lines starting will a #) which will explain what is heppening in that program.
-## [Is Mr. X alive?](https://github.com/suryaanshchawla/My-Python-Projects/blob/master/Is%20Mr.%20X%20alive%20game.py)
+This section will cover the description of the projects in this repository. Each heading will be linked to the wiki page of that project. The wiki will explain the following aspects of that project:
+- [Idea](https://youtu.be/SObDW4fXRZQ)
+- [Algorithmic Flowchart](https://youtu.be/HYAXws5_bLo)
+- [Prerequisites](https://tinyurl.com/y3qpxb6t)
+- Explaination of the Concepts Used
+## [Is Mr. X alive?](https://github.com/suryaanshchawla/My-Python-Projects/wiki/_new?wiki%5Bname%5D=_Sidebar)
 This is a simple game which takes input(Is Mr. X alive) from the user and then dispays the output(Yes-Stay safe from Covid-19; No-Om Shanti(A sanskrit proverb used to tell "hope there be peace"))
 ### Concepts
 * Handling Exceptions in Python
