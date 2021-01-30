@@ -1,6 +1,6 @@
 x=input("Is Mr. X alive?") #Asking the user for input
 try:
-    if x == "No":
+    if x.lower() == "no" or "nope":
         print("Om shanti!")
     else:
         print("Stay safe from Covid-19")
