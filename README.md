@@ -20,4 +20,4 @@ This is a simple game which takes input(Is Mr. X alive) from the user and then d
 ### Concepts
 * Handling Exceptions in Python
 * Conditional Statements<br><br>
-[**Run On CodeLab-->**![Run on CodeLab](https://github.com/suryaanshchawla/My-Python-Projects/blob/collection/Codelab%20Runner.png)](https://colab.research.google.com/drive/1Y06QSNo3XPSCrK_jquvnjXlSSRe1C7Qx?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y06QSNo3XPSCrK_jquvnjXlSSRe1C7Qx?usp=sharing)
