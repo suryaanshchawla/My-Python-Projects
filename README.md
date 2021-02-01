@@ -19,5 +19,4 @@ This section will cover the description of the projects in this repository. Each
 This is a simple game which takes input(Is Mr. X alive) from the user and then dispays the output(Yes-Stay safe from Covid-19; No-Om Shanti(A sanskrit proverb used to tell "hope there be peace"))
 ### Concepts
 * Handling Exceptions in Python
-* Conditional Statements<br><br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y06QSNo3XPSCrK_jquvnjXlSSRe1C7Qx?usp=sharing)
+* Conditional Statements
