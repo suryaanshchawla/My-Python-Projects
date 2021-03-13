@@ -2,10 +2,14 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
+
+**What label does this feature have?**
+- [ ] In-Project [Project Name] (Feature related to a particular Project)
+- [ ] New Project
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. If we could [...], then it could solve [...] bug.
