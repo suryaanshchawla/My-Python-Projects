@@ -6,3 +6,7 @@
 Ls=input("Enter the integers")
 for a, b in ls:
     Ans= str(a) +"="+ str((a/b)-a%b)+ str(a%b)
+
+
+if a<b:
+    print(a+"="+b+"× 0 +"+a)
