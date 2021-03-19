@@ -1,8 +1,3 @@
-#for each pair of positive integers  a  and  b, we have found whole numbers q and  r, satisfying the relation:
-# a = bq+r, 0 =< r < b
-
-# Question: for any given pair of integers, find it's q and r.
-
 # Algorithm
 # 1. Take 2 integers
 # 2. See the higher integer.
@@ -14,25 +9,28 @@
 # 8. when r=0, the devisor is the H.C.F.
 
 def EuclidsDivAlg():
-	try:
+    devident=0
+    devisor=0
+    while (devisor<1 and devident<1) and (int(devisor) is devisor) and (int(devident) is devident):
+        try:
+	    devident=int(input("Enter the first natural num: "))
+	    devisor=int(input("Enter the second natural num: "))
+	except:
+		print("Plese Enter a natural number. For example: 256")
 		devident=int(input("Enter the first natural num: "))
 		devisor=int(input("Enter the second natural num: "))
-	except:
-		print("Please enter a natural number")
-		print("For example: 256")
 
-	r = devident % devisor
-	q = devident // devisor
-
-	if devident<devisor:
-		devident=devisor
-		devisor=devident
-	elif devident==devisor:
-		print("Both integers are same, so both are the HCF or each other.")
-
-	while r != 0:
-		print(str(step)+"."+str(devident)+"="+str(devisor)+"*"str(devident//devisor)+"+"+str(devident%devisor))
-		if r != 0:
-			devisor=devident
-			r=devisor
+    r = devident % devisor
+    q = devident // devisor
+	
+    if devident<devisor:
+	devident=devisor
+	devisor=devident
+    elif devident==devisor:
+	print("Both integers are same, so both are the HCF or each other.")
+    while r != 0:
+	print(str(step)+"."+str(devident)+"="+str(devisor)+"*"str(devident//devisor)+"+"+str(devident%devisor))
+	if r != 0:
+	    devisor=devident
+	    r=devisor
 EuclidsDivAlg()
