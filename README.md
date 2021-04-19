@@ -10,7 +10,7 @@ Just looking at my code won't help much. You would have to experiment with my co
 I am a big follower of the feynman technique, in which when we are learning something new, we teach others about it. So this repo is one of those.
 
 # Projects
-This section will cover the description of the projects in this repository. Each heading will be linked to the wiki page of that project. The wiki will explain the following aspects of that project:
+This section will cover the description of the projects in this repository. Each heading will be linked to the wiki page of that project. The wiki will explain the following aspects of that project(usually):
 - [Idea](https://youtu.be/SObDW4fXRZQ)
 - [Algorithmic Flowchart](https://youtu.be/HYAXws5_bLo)
 - [Prerequisites](https://tinyurl.com/y3qpxb6t)
@@ -20,3 +20,8 @@ This is a simple game which takes input(Is Mr. X alive) from the user and then d
 ### Concepts
 * Handling Exceptions in Python
 * Conditional Statements
+## [Euclid' Division Lemma](github.com/suryaanshah/Euclid's-Division-Lemma)
+This is a simple project inspired by the ['Euclid's Division Lemma'](![image](https://user-images.githubusercontent.com/47082682/115228507-7bf32800-a12f-11eb-8974-78dfbbabcb16.png). You give it two numbers, and it writes in in the form of a=b*q+r.
+### Concepts
+* Taking inputs
+* Converting data-types according to use
