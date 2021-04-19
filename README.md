@@ -15,6 +15,11 @@ This section will cover the description of the projects in this repository. Each
 - [Algorithmic Flowchart](https://youtu.be/HYAXws5_bLo)
 - [Prerequisites](https://tinyurl.com/y3qpxb6t)
 - Explaination of the Concepts Used
+
+# Project List:
+- [Is Mr. X alive?](## [Is Mr. X alive?])
+- [Euclid's Division Lemma](## [Euclid' Division Lemma])
+
 ## [Is Mr. X alive?](https://github.com/suryaanshchawla/My-Python-Projects/wiki/_new?wiki%5Bname%5D=_Sidebar)
 This is a simple game which takes input(Is Mr. X alive) from the user and then dispays the output(Yes-Stay safe from Covid-19; No-Om Shanti(A sanskrit proverb used to tell "hope there be peace"))
 ### Concepts
