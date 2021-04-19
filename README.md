@@ -18,7 +18,7 @@ This section will cover the description of the projects in this repository. Each
 
 # Project List:
 - [Is Mr. X alive?](https://github.com/suryaanshah/My-Python-Projects#is-mr-x-alive)
-- [Euclid's Division Lemma](https://github.com/suryaanshah/My-Python-Projects#Euclid's-Division-Lemma)
+- [Euclid's Division Lemma](https://github.com/suryaanshah/My-Python-Projects#euclid-division-lemma)
 
 ## [Is Mr. X alive?](https://github.com/suryaanshchawla/My-Python-Projects/wiki/_new?wiki%5Bname%5D=_Sidebar)
 This is a simple game which takes input(Is Mr. X alive) from the user and then dispays the output(Yes-Stay safe from Covid-19; No-Om Shanti(A sanskrit proverb used to tell "hope there be peace"))
