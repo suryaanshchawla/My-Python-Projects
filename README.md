@@ -16,7 +16,7 @@ This section will cover the description of the projects in this repository. Each
 - [Prerequisites](https://tinyurl.com/y3qpxb6t)
 - Explaination of the Concepts Used
 
-# __Project List:__
+## __Project List:__
 - [Is Mr. X alive?](https://github.com/suryaanshah/My-Python-Projects#is-mr-x-alive)
 - [Euclid's Division Lemma](https://github.com/suryaanshah/My-Python-Projects#euclid-division-lemma)
 
